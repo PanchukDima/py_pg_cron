@@ -1,0 +1,2 @@
+psycopg2~=2.9.8
+croniter~=2.0.1
